@@ -16,69 +16,92 @@ This repository contains a collection of books covering various topics, such as 
 
 
 ## Books Included
-Here is a list of some of the books available in this collection:
-
-- Agile Software Development: Principles, Patterns, and Practices <br>
-Author: Robert C. Martin
-
-- Clean Architecture: A Craftsman's Guide to Software Structure and Design <br>
-Author: Robert C. Martin
-
-- Clean Code: A Handbook of Agile Software Craftsmanship <br>
-Author: Robert C. Martin
-
-- Dependency Injection: Principles, Practices, Patterns <br>
-Authors: Steven van Deursen, Mark Seemann
-
-- Design Patterns: Elements of Reusable Object-Oriented Software <br>
-Authors: Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides
-
-- Domain-Driven Design: Tackling Complexity in the Heart of Software <br>
-Author: Eric Evans
-
-- Extreme Programming Explained: Embrace Change <br>
-Authors: Kent Beck, Cynthia Andres
-
-- Five Lines of Code: How and When to Refactor <br>
-Author: Christian Clausen
-
-- Growing Object-Oriented Software, Guided by Tests <br>
-Authors: Steve Freeman, Nat Pryce
-
-- Hands-On Design Patterns with Swift <br>
-Author: Florent Vilmart
-
-- Head First Design Patterns: Building Extensible and Maintainable Object-Oriented Software <br>
-Authors: Eric Freeman, Elisabeth Robson
-
-- Object-Oriented Software Construction <br>
-Author: Bertrand Meyer
-
-- Object-Oriented Analysis and Design with Applications <br>
-Author: Grady Booch
-
-- Refactoring: Improving the Design of Existing Code <br>
-Author: Martin Fowler
-
-- Software Design Decoded: 66 Ways Experts Think <br>
-Authors: Marian Petre, André van der Hoek
-
-- Test-Driven Development: By Example <br>
-Author: Kent Beck
-
-- The Pragmatic Programmer: Your Journey to Mastery <br>
-Authors: Andrew Hunt, David Thomas
-
-- Structure and Interpretation of Computer Programs (SICP) <br>
-Authors: Harold Abelson, Gerald Jay Sussman
-
-- Software Architecture in Practice (4th Edition) <br>
-Authors: Len Bass, Paul Clements, Rick Kazman
-
-- The Essentials of Modern Software Engineering <br>
-Authors: Ivar Jacobson, Harold "Bud" Lawson, Pan-Wei Ng, Paul E. McMahon, Michael Goedicke
-
-- Use Case 2.0 <br>
-Authors: Ivar Jacobson, Ian Spence
+<h6></h6>
+   <ul>
+      <li>
+          <h4>Agile Software Development: Principles, Patterns, and Practices</h4>
+          <p>Author: Robert C. Martin</p>
+      </li>
+      <li>
+          <h4>Clean Architecture: A Craftsman's Guide to Software Structure and Design</h4>
+          <p>Author: Robert C. Martin</p>
+      </li>
+      <li>
+          <h4>Clean Code: A Handbook of Agile Software Craftsmanship</h4>
+          <p>Author: Robert C. Martin</p>
+      </li>
+      <li>
+          <h4>Dependency Injection: Principles, Practices, Patterns</h4>
+          <p>Authors: Steven van Deursen, Mark Seemann</p>
+      </li>
+      <li>
+          <h4>Design Patterns: Elements of Reusable Object-Oriented Software</h4>
+          <p>Authors: Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides</p>
+      </li>
+      <li>
+          <h4>Domain-Driven Design: Tackling Complexity in the Heart of Software</h4>
+          <p>Author: Eric Evans</p>
+      </li>
+      <li>
+          <h4>Extreme Programming Explained: Embrace Change</h4>
+          <p>Authors: Kent Beck, Cynthia Andres</p>
+      </li>
+      <li>
+          <h4>Five Lines of Code: How and When to Refactor</h4>
+          <p>Author: Christian Clausen</p>
+      </li>
+      <li>
+          <h4>Growing Object-Oriented Software, Guided by Tests</h4>
+          <p>Authors: Steve Freeman, Nat Pryce</p>
+      </li>
+      <li>
+          <h4>Hands-On Design Patterns with Swift</h4>
+          <p>Author: Florent Vilmart</p>
+      </li>
+      <li>
+          <h4>Head First Design Patterns: Building Extensible and Maintainable Object-Oriented Software</h4>
+          <p>Authors: Eric Freeman, Elisabeth Robson</p>
+      </li>
+      <li>
+          <h4>Object-Oriented Software Construction</h4>
+          <p>Author: Bertrand Meyer</p>
+      </li>
+      <li>
+          <h4>Object-Oriented Analysis and Design with Applications</h4>
+          <p>Author: Grady Booch</p>
+      </li>
+      <li>
+          <h4>Refactoring: Improving the Design of Existing Code</h4>
+          <p>Author: Martin Fowler</p>
+      </li>
+      <li>
+          <h4>Software Design Decoded: 66 Ways Experts Think</h4>
+          <p>Authors: Marian Petre, André van der Hoek</p>
+      </li>
+      <li>
+          <h4>Test-Driven Development: By Example</h4>
+          <p>Author: Kent Beck</p>
+      </li>
+      <li>
+          <h4>The Pragmatic Programmer: Your Journey to Mastery</h4>
+          <p>Authors: Andrew Hunt, David Thomas</p>
+      </li>
+      <li>
+          <h4>Structure and Interpretation of Computer Programs (SICP)</h4>
+          <p>Authors: Harold Abelson, Gerald Jay Sussman</p>
+      </li>
+      <li>
+          <h4>Software Architecture in Practice (4th Edition)</h4>
+          <p>Authors: Len Bass, Paul Clements, Rick Kazman</p>
+      </li>
+      <li>
+          <h4>The Essentials of Modern Software Engineering</h4>
+          <p>Authors: Ivar Jacobson, Harold "Bud" Lawson, Pan-Wei Ng, Paul E. McMahon, Michael Goedicke</p>
+      </li>
+      <li>
+          <h4>Use Case 2.0</h4>
+          <p>Authors: Ivar Jacobson, Ian Spence</p>
+      </li>
+  </ul>
 
 Note: This is not an exhaustive list. The complete collection is in the repository.
